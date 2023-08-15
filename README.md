@@ -1,5 +1,5 @@
-![](https://rupspan28995.com/ghpvc/?username=your-github-username)
-![](https://rupspan28995.com/ghpvc/?username=your-github-username&color=blue)
+![](https://rupspan28995.com/ghpvc/?username=rupspan28995)
+![](https://rupspan28995.com/ghpvc/?username=rupspan28995&color=blue)
 #   <p align="center">            👋 Hey there!!! </p>
 #   <p align="center"> I'm Rupali Pandit😃, a Quantexa Data Engineer Consultant </p>
 
