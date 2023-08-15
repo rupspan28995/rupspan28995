@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=rupspan28995)
 ![](https://komarev.com/ghpvc/?username=rupspan28995&color=blue)
 #   <p align="center">            👋 Hey there!!! </p>
 #   <p align="center"> I'm Rupali Pandit😃, a Quantexa Data Engineer Consultant </p>
