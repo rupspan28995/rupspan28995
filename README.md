@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://rupspan28995.com/ghpvc/?username=your-github-username&color=blue)
 #   <p align="center">            👋 Hey there!!! </p>
 #   <p align="center"> I'm Rupali Pandit😃, a Quantexa Data Engineer Consultant </p>
 
