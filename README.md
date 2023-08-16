@@ -7,7 +7,7 @@
 *🌟I am a proud **graduate** of the AWS re/Start program.<br />
 *👨🏻‍💻I'm officially recognized as an **AWS Cloud Practitioner**.<br />
 *📖I have completed **Master of Computer Applications(MCA)** degree from DAVV university.<br />
-##Let's do something!
+## Let's do something!
 Connect with me on LinkedIn (https://www.linkedin.com/in/rupali-pandit-a1113b242 )
 <!---
 rupspan28995/rupspan28995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
