@@ -6,7 +6,7 @@
 *🙋‍♂️I have earned	[PCEP-30-02] **Entry-Level Python Programmer** certification.  <br />
 *🌟I am a proud **graduate** of the AWS re/Start program.<br />
 *👨🏻‍💻I'm officially recognized as an **AWS Cloud Practitioner**.<br />
-*📖I have completed **Master of Computer Applications(MCA)** degree from DAVV university
+*📖I have completed **Master of Computer Applications(MCA)** degree from DAVV university.
 <!---
 rupspan28995/rupspan28995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
