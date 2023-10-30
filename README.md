@@ -5,8 +5,8 @@
 ### <p align="center">Currently working with Xander Talent as a Quantexa Data Engineer Consultant.</p>
 *💻I am a proud **Quantexa Data Engineer** certified. <br />
 *🙋‍♂️I have earned	[PCEP-30-02] **Entry-Level Python Programmer** certification.  <br />
-*🌟I am graduate of the **AWS re/Start Graduate program**.<br />
 *👨🏻‍💻I'm officially recognized as an **AWS Cloud Practitioner**.<br />
+*🌟I am graduate of the **AWS re/Start Graduate program**.<br />
 *📖I have completed **Master of Computer Applications(MCA)** degree from DAVV university.<br />
 ## Let's do something!
 [Connect with me on LinkedIn](https://www.linkedin.com/in/rupali-pandit-a1113b242 )
